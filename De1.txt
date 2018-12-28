@@ -1,0 +1,16 @@
+3
+Cau 1: Khu du lich nao thuoc Nha Trang:
+A. Hon Chong
+B. Diep Son
+C. Bien Binh Ba
+A
+Cau 2: Quan ca phe nao gan Dai Hoc Nha Trang nhat:
+A. Milano
+B. Catimor
+C. Galaxy Coffe
+B
+Cau 3: Giang Duong nao thuoc Dai Hoc Nha Trang:
+A. G1, G2
+B. G3, G7
+C. Ca 2 dap an tren
+C

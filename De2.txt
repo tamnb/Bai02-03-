@@ -1,0 +1,10 @@
+3
+Cau 1: Ngon ngu lap trinh la gi:
+A. La phuong tien de soan thao van ban
+B. Ngon ngu Pascal or  C
+C. Ngon ngu dien dat thuat toan
+Cau 2: Ban nao thuoc lop CNTT 2
+A. Nguyen Van A
+B. Nguyen Van B
+C. Nguyen Van C
+C
